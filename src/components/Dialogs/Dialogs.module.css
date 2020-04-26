@@ -1,0 +1,36 @@
+.dialogItems .active {
+    color: gold;
+    
+
+
+}
+.dialogItems a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+
+
+}
+
+.dialogs {
+    display: grid;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+
+}
+
+
+
+.dialog .active{
+    color: gold;
+
+}
+
+.messages {
+color: white;
+
+}
+
+.newMsgArea .textarea {
+padding: 150px;
+}
